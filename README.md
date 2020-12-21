@@ -37,7 +37,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Smiling
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :smile: | `:smile:` | :grin: | `:grin:` | [top](#table-of-contents) |
