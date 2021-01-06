@@ -58,7 +58,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Tongue
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :yum: | `:yum:` | :stuck_out_tongue: | `:stuck_out_tongue:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` | :zany_face: | `:zany_face:` | [top](#table-of-contents) |
@@ -66,14 +66,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Hand
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :hugs: | `:hugs:` | :hand_over_mouth: | `:hand_over_mouth:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :shushing_face: | `:shushing_face:` | :thinking: | `:thinking:` | [top](#table-of-contents) |
 
 #### Face Neutral Skeptical
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :zipper_mouth_face: | `:zipper_mouth_face:` | :raised_eyebrow: | `:raised_eyebrow:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :neutral_face: | `:neutral_face:` | :expressionless: | `:expressionless:` | [top](#table-of-contents) |
@@ -83,7 +83,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Sleepy
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :relieved: | `:relieved:` | :pensive: | `:pensive:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :sleepy: | `:sleepy:` | :drooling_face: | `:drooling_face:` | [top](#table-of-contents) |
@@ -91,7 +91,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Unwell
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :mask: | `:mask:` | :face_with_thermometer: | `:face_with_thermometer:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :face_with_head_bandage: | `:face_with_head_bandage:` | :nauseated_face: | `:nauseated_face:` | [top](#table-of-contents) |
@@ -102,20 +102,20 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Hat
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :cowboy_hat_face: | `:cowboy_hat_face:` | :partying_face: | `:partying_face:` | [top](#table-of-contents) |
 
 #### Face Glasses
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :sunglasses: | `:sunglasses:` | :nerd_face: | `:nerd_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :monocle_face: | `:monocle_face:` | | | [top](#table-of-contents) |
 
 #### Face Concerned
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :confused: | `:confused:` | :worried: | `:worried:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :slightly_frowning_face: | `:slightly_frowning_face:` | :frowning_face: | `:frowning_face:` | [top](#table-of-contents) |
@@ -132,7 +132,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Negative
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :triumph: | `:triumph:` | :pout: | `:pout:` <br /> `:rage:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :angry: | `:angry:` | :cursing_face: | `:cursing_face:` | [top](#table-of-contents) |
@@ -141,7 +141,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Costume
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :hankey: | `:hankey:` <br /> `:poop:` <br /> `:shit:` | :clown_face: | `:clown_face:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :japanese_ogre: | `:japanese_ogre:` | :japanese_goblin: | `:japanese_goblin:` | [top](#table-of-contents) |
@@ -150,7 +150,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Cat Face
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :smiley_cat: | `:smiley_cat:` | :smile_cat: | `:smile_cat:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :joy_cat: | `:joy_cat:` | :heart_eyes_cat: | `:heart_eyes_cat:` | [top](#table-of-contents) |
@@ -160,14 +160,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Monkey Face
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :see_no_evil: | `:see_no_evil:` | :hear_no_evil: | `:hear_no_evil:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :speak_no_evil: | `:speak_no_evil:` | | | [top](#table-of-contents) |
 
 #### Emotion
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :kiss: | `:kiss:` | :love_letter: | `:love_letter:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :cupid: | `:cupid:` | :gift_heart: | `:gift_heart:` | [top](#table-of-contents) |
@@ -209,7 +209,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Hand Fingers Open
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :wave: | `:wave:` | :raised_back_of_hand: | `:raised_back_of_hand:` | [top](#table-of-contents) |
 | [top](#people--body) | :raised_hand_with_fingers_splayed: | `:raised_hand_with_fingers_splayed:` | :hand: | `:hand:` <br /> `:raised_hand:` | [top](#table-of-contents) |
@@ -217,7 +217,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Hand Fingers Partial
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :ok_hand: | `:ok_hand:` | :pinching_hand: | `:pinching_hand:` | [top](#table-of-contents) |
 | [top](#people--body) | :v: | `:v:` | :crossed_fingers: | `:crossed_fingers:` | [top](#table-of-contents) |
@@ -226,7 +226,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Hand Single Finger
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :point_left: | `:point_left:` | :point_right: | `:point_right:` | [top](#table-of-contents) |
 | [top](#people--body) | :point_up_2: | `:point_up_2:` | :fu: | `:fu:` <br /> `:middle_finger:` | [top](#table-of-contents) |
@@ -234,7 +234,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Hand Fingers Closed
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :+1: | `:+1:` <br /> `:thumbsup:` | :-1: | `:-1:` <br /> `:thumbsdown:` | [top](#table-of-contents) |
 | [top](#people--body) | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` | [top](#table-of-contents) |
@@ -242,7 +242,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Hands
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :clap: | `:clap:` | :raised_hands: | `:raised_hands:` | [top](#table-of-contents) |
 | [top](#people--body) | :open_hands: | `:open_hands:` | :palms_up_together: | `:palms_up_together:` | [top](#table-of-contents) |
@@ -250,14 +250,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Hand Prop
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :writing_hand: | `:writing_hand:` | :nail_care: | `:nail_care:` | [top](#table-of-contents) |
 | [top](#people--body) | :selfie: | `:selfie:` | | | [top](#table-of-contents) |
 
 #### Body Parts
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :muscle: | `:muscle:` | :mechanical_arm: | `:mechanical_arm:` | [top](#table-of-contents) |
 | [top](#people--body) | :mechanical_leg: | `:mechanical_leg:` | :leg: | `:leg:` | [top](#table-of-contents) |
@@ -270,7 +270,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Person
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :baby: | `:baby:` | :child: | `:child:` | [top](#table-of-contents) |
 | [top](#people--body) | :boy: | `:boy:` | :girl: | `:girl:` | [top](#table-of-contents) |
@@ -288,7 +288,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Person Gesture
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :frowning_person: | `:frowning_person:` | :frowning_man: | `:frowning_man:` | [top](#table-of-contents) |
 | [top](#people--body) | :frowning_woman: | `:frowning_woman:` | :pouting_face: | `:pouting_face:` | [top](#table-of-contents) |
@@ -308,7 +308,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Person Role
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :health_worker: | `:health_worker:` | :man_health_worker: | `:man_health_worker:` | [top](#table-of-contents) |
 | [top](#people--body) | :woman_health_worker: | `:woman_health_worker:` | :student: | `:student:` | [top](#table-of-contents) |
@@ -349,7 +349,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Person Fantasy
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :angel: | `:angel:` | :santa: | `:santa:` | [top](#table-of-contents) |
 | [top](#people--body) | :mrs_claus: | `:mrs_claus:` | :superhero: | `:superhero:` | [top](#table-of-contents) |
@@ -369,7 +369,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Person Activity
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :massage: | `:massage:` | :massage_man: | `:massage_man:` | [top](#table-of-contents) |
 | [top](#people--body) | :massage_woman: | `:massage_woman:` | :haircut: | `:haircut:` | [top](#table-of-contents) |
@@ -394,7 +394,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Person Sport
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :person_fencing: | `:person_fencing:` | :horse_racing: | `:horse_racing:` | [top](#table-of-contents) |
 | [top](#people--body) | :skier: | `:skier:` | :snowboarder: | `:snowboarder:` | [top](#table-of-contents) |
