@@ -49,7 +49,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 #### Face Affection
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | :heart_eyes: | `:heart_eyes:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :star_struck: | `:star_struck:` | :kissing_heart: | `:kissing_heart:` | [top](#table-of-contents) |
@@ -1531,7 +1531,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 ### GitHub Custom Emoji
 
-| | ico | shortcode | ico | shortcode | |
+| | Icon | Code | Icon | Code | |
 | - | :-: | - | :-: | - | - |
 | [top](#github-custom-emoji) | :atom: | `:atom:` | :basecamp: | `:basecamp:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | [top](#table-of-contents) |
